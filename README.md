@@ -1,5 +1,5 @@
 # kubernetes2MdGitlab
-output nods and pods to markdown gitlab format
+output nods and pods to markdown gitlab/github format
 
 # get start
 
