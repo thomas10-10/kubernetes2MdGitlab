@@ -4,7 +4,7 @@ output nods and pods to markdown gitlab/github format
 # get start
 
 ```
-add file conf to script
+add kubernetes file conf to script
 vim script.sh
 chmod +x 
 ./script.sh
